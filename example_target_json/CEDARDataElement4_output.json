@@ -1,0 +1,485 @@
+{
+  "origin": {
+    "_value": ""
+  }, 
+  "_templateId": "https://repo.metadatacenter.net/templates/f9d107b3-c587-4db3-a1b4-0e21ccd14997", 
+  "preferredDefinition": {
+    "_value": "An ocular disease, occurring in many forms, having as its primary characteristics an\n            unstable or a sustained increase in the intraocular pressure which the eye cannot withstand without damage\n            to its structure or impairment of its function. The consequences of the increased pressure may be manifested\n            in a variety of symptoms, depending upon type and severity, such as excavation of the optic disk, hardness\n            of the eyeball, corneal anesthesia, reduced visual acuity, seeing of colored halos around lights, disturbed\n            dark adaptation, visual field defects, and headaches. (Dictionary of Visual Science, 4th ed). Subjective\n            reports made by a patient. An account of all medical events and problems a person has experienced. A caDSR\n            representation term that is used to indicate a question with permissible values of yes/no\n        "
+  }, 
+  "publicID": {
+    "_value": "3109848"
+  }, 
+  "referenceDocumentsList": {
+    "referenceDocumentsListItem": [
+      {
+        "documentText": {
+          "_value": "Glaucoma"
+        }, 
+        "organizationName": {
+          "_value": "NULL"
+        }, 
+        "name": {
+          "_value": "Glaucoma"
+        }, 
+        "language": {
+          "_value": "ENGLISH"
+        }, 
+        "uRL": {
+          "_value": "NULL"
+        }, 
+        "documentType": {
+          "_value": "Preferred Question Text"
+        }, 
+        "displayOrder": {
+          "_value": "NULL"
+        }
+      }
+    ]
+  }, 
+  "contextVersion": {
+    "_value": "1"
+  }, 
+  "alternateNameList": {
+    "alternateNameListItem": []
+  }, 
+  "classificationsList": {
+    "classificationsListItem": []
+  }, 
+  "workflowStatus": {
+    "_value": "RELEASED"
+  }, 
+  "contextName": {
+    "_value": "NIDCR"
+  }, 
+  "rAI": {
+    "_value": "2.16.840.1.113883.3.26.2"
+  }, 
+  "registrationStatus": {
+    "_value": ""
+  }, 
+  "_ui": {
+    "description": "Glaucoma Patient Self-Report Personal Medical History Yes or No Response publicId_3109848", 
+    "title": "CEDARDataElement4"
+  }, 
+  "version": {
+    "_value": "1"
+  }, 
+  "valueDomain": {
+    "origin": {
+      "_value": "NULL"
+    }, 
+    "characterSetName": {
+      "_value": "NULL"
+    }, 
+    "preferredDefinition": {
+      "_value": "A caDSR representation term that is used to indicate a question with permissible values\n                of yes/no\n            "
+    }, 
+    "valueDomainConcepts": {
+      "valueDomainConceptsItem": [
+        {
+          "origin": {
+            "_value": "NCI Thesaurus"
+          }, 
+          "conceptID": {
+            "_value": "2451557"
+          }, 
+          "definitionSource": {
+            "_value": "NCI"
+          }, 
+          "primaryFlag": {
+            "_value": "No"
+          }, 
+          "eVSSource": {
+            "_value": "NCI_CONCEPT_CODE"
+          }, 
+          "longName": {
+            "_value": "Yes"
+          }, 
+          "displayOrder": {
+            "_value": "1"
+          }, 
+          "preferredName": {
+            "_value": "C49488"
+          }
+        }, 
+        {
+          "origin": {
+            "_value": "NCI Thesaurus"
+          }, 
+          "conceptID": {
+            "_value": "2451556"
+          }, 
+          "definitionSource": {
+            "_value": "NCI"
+          }, 
+          "primaryFlag": {
+            "_value": "Yes"
+          }, 
+          "eVSSource": {
+            "_value": "NCI_CONCEPT_CODE"
+          }, 
+          "longName": {
+            "_value": "No"
+          }, 
+          "displayOrder": {
+            "_value": "0"
+          }, 
+          "preferredName": {
+            "_value": "C49487"
+          }
+        }
+      ]
+    }, 
+    "conceptualDomain": {
+      "contextVersion": {
+        "_value": "2.31"
+      }, 
+      "contextName": {
+        "_value": "CTEP"
+      }, 
+      "publicID": {
+        "_value": "2008551"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "Assessments"
+      }, 
+      "preferredName": {
+        "_value": "ASSESS"
+      }
+    }, 
+    "displayFormat": {
+      "_value": "NULL"
+    }, 
+    "longName": {
+      "_value": "Yes or No Response"
+    }, 
+    "minimumValue": {
+      "_value": "NULL"
+    }, 
+    "contextVersion": {
+      "_value": "1"
+    }, 
+    "workflowStatus": {
+      "_value": "RELEASED"
+    }, 
+    "maximumValue": {
+      "_value": "NULL"
+    }, 
+    "version": {
+      "_value": "1"
+    }, 
+    "contextName": {
+      "_value": "NIDCR"
+    }, 
+    "permissibleValues": {
+      "permissibleValuesItem": [
+        {
+          "validValue": {
+            "_value": "No [0]"
+          }, 
+          "meaningConcepts": {
+            "_value": "C49487"
+          }, 
+          "vMVersion": {
+            "_value": "1"
+          }, 
+          "vMPublicID": {
+            "_value": "2559515"
+          }, 
+          "pVBeginData": {
+            "_value": "6/11/2010 0:0:0"
+          }, 
+          "pVEndDate": {
+            "_value": "NULL"
+          }, 
+          "meaningDescription": {
+            "_value": "The non-affirmative response to a question."
+          }, 
+          "valueMeaning": {
+            "_value": "No"
+          }
+        }, 
+        {
+          "validValue": {
+            "_value": "Yes [0]"
+          }, 
+          "meaningConcepts": {
+            "_value": "C49488"
+          }, 
+          "vMVersion": {
+            "_value": "1"
+          }, 
+          "vMPublicID": {
+            "_value": "2560453"
+          }, 
+          "pVBeginData": {
+            "_value": "6/11/2010 0:0:0"
+          }, 
+          "pVEndDate": {
+            "_value": "NULL"
+          }, 
+          "meaningDescription": {
+            "_value": "The affirmative response to a question or activity."
+          }, 
+          "valueMeaning": {
+            "_value": "Yes"
+          }
+        }
+      ]
+    }, 
+    "maximumLength": {
+      "_value": ""
+    }, 
+    "minimumLength": {
+      "_value": ""
+    }, 
+    "preferredName": {
+      "_value": "C49487:C49488:3108967v1.0"
+    }, 
+    "publicID": {
+      "_value": "3108967"
+    }, 
+    "datatype": {
+      "_value": "CHARACTER"
+    }, 
+    "unitsOfMeasure": {
+      "_value": "NULL"
+    }, 
+    "decimalPlace": {
+      "_value": "NULL"
+    }, 
+    "valueDomainType": {
+      "_value": "Enumerated"
+    }, 
+    "representation": {
+      "contextVersion": {
+        "_value": "1"
+      }, 
+      "publicID": {
+        "_value": "2421125"
+      }, 
+      "untitled": {
+        "_value": "caBIG"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "1"
+      }, 
+      "preferredName": {
+        "_value": "C38147"
+      }
+    }
+  }, 
+  "dataElementConcept": {
+    "origin": {
+      "_value": "NULL"
+    }, 
+    "contextVersion": {
+      "_value": "1"
+    }, 
+    "preferredDefinition": {
+      "_value": "An ocular disease, occurring in many forms, having as its primary characteristics an\n                unstable or a sustained increase in the intraocular pressure which the eye cannot withstand without\n                damage to its structure or impairment of its function. The consequences of the increased pressure may be\n                manifested in a variety of symptoms, depending upon type and severity, such as excavation of the optic\n                disk, hardness of the eyeball, corneal anesthesia, reduced visual acuity, seeing of colored halos around\n                lights, disturbed dark adaptation, visual field defects, and headaches. (Dictionary of Visual Science,\n                4th ed). Subjective reports made by a patient. An account of all medical events and problems a person\n                has experienced.\n            "
+    }, 
+    "publicID": {
+      "_value": "3109846"
+    }, 
+    "objectClass": {
+      "conceptDetails": {
+        "conceptDetailsItem": [
+          {
+            "origin": {
+              "_value": "NCI Thesaurus"
+            }, 
+            "conceptID": {
+              "_value": "2203738"
+            }, 
+            "definitionSource": {
+              "_value": "NCI"
+            }, 
+            "primaryFlag": {
+              "_value": "Yes"
+            }, 
+            "eVSSource": {
+              "_value": "NCI_CONCEPT_CODE"
+            }, 
+            "longName": {
+              "_value": "Glaucoma"
+            }, 
+            "displayOrder": {
+              "_value": "0"
+            }, 
+            "preferredName": {
+              "_value": "C26782"
+            }
+          }
+        ]
+      }, 
+      "contextVersion": {
+        "_value": "1"
+      }, 
+      "contextName": {
+        "_value": "caBIG"
+      }, 
+      "publicID": {
+        "_value": "3109844"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "Glaucoma"
+      }, 
+      "preferredName": {
+        "_value": "C26782"
+      }
+    }, 
+    "workflowStatus": {
+      "_value": "RELEASED"
+    }, 
+    "contextName": {
+      "_value": "NIDCR"
+    }, 
+    "propertyQualifier": {
+      "_value": "NULL"
+    }, 
+    "version": {
+      "_value": "1"
+    }, 
+    "conceptualDomain": {
+      "contextVersion": {
+        "_value": "2.31"
+      }, 
+      "contextName": {
+        "_value": "CTEP"
+      }, 
+      "publicID": {
+        "_value": "2008551"
+      }, 
+      "version": {
+        "_value": "2.31"
+      }, 
+      "longName": {
+        "_value": "Assessments"
+      }, 
+      "preferredName": {
+        "_value": "ASSESS"
+      }
+    }, 
+    "longName": {
+      "_value": "Glaucoma Patient Self-Report Personal Medical History"
+    }, 
+    "property": {
+      "conceptDetails": {
+        "conceptDetailsItem": [
+          {
+            "origin": {
+              "_value": "NCI Thesaurus"
+            }, 
+            "conceptID": {
+              "_value": "2234887"
+            }, 
+            "definitionSource": {
+              "_value": "NCI"
+            }, 
+            "primaryFlag": {
+              "_value": "No"
+            }, 
+            "eVSSource": {
+              "_value": "NCI_CONCEPT_CODE"
+            }, 
+            "longName": {
+              "_value": "Patient Self-Report"
+            }, 
+            "displayOrder": {
+              "_value": "1"
+            }, 
+            "preferredName": {
+              "_value": "C21089"
+            }
+          }, 
+          {
+            "origin": {
+              "_value": "NCI Thesaurus"
+            }, 
+            "conceptID": {
+              "_value": "2202879"
+            }, 
+            "definitionSource": {
+              "_value": "NCI"
+            }, 
+            "primaryFlag": {
+              "_value": "Yes"
+            }, 
+            "eVSSource": {
+              "_value": "NCI_CONCEPT_CODE"
+            }, 
+            "longName": {
+              "_value": "Personal Medical History"
+            }, 
+            "displayOrder": {
+              "_value": "0"
+            }, 
+            "preferredName": {
+              "_value": "C18772"
+            }
+          }
+        ]
+      }, 
+      "contextVersion": {
+        "_value": "1"
+      }, 
+      "contextName": {
+        "_value": "caBIG"
+      }, 
+      "publicID": {
+        "_value": "2793065"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "Patient Self-Report Personal Medical History"
+      }, 
+      "preferredName": {
+        "_value": "C21089:C18772"
+      }
+    }, 
+    "objectClassQualifier": {
+      "_value": "NULL"
+    }, 
+    "preferredName": {
+      "_value": "3109844v1.0:2793065v1.0"
+    }
+  }, 
+  "longName": {
+    "_value": "Glaucoma Patient Self-Report Personal Medical History Yes or No Response"
+  }, 
+  "dataElementDerivation": {
+    "methods": {
+      "_value": "NULL"
+    }, 
+    "componentDataElementsList": {
+      "componentDataElementsListItem": []
+    }, 
+    "derivationTypeDescription": {
+      "_value": "NULL"
+    }, 
+    "rule": {
+      "_value": "NULL"
+    }, 
+    "concatenationCharacter": {
+      "_value": "NULL"
+    }, 
+    "derivationType": {
+      "_value": "NULL"
+    }
+  }, 
+  "preferredName": {
+    "_value": "3109846v1.0:3108967v1.0"
+  }
+}

@@ -1,0 +1,927 @@
+{
+  "origin": {
+    "_value": "ISO:International Organization for Standardization"
+  }, 
+  "_templateId": "https://repo.metadatacenter.net/templates/f9d107b3-c587-4db3-a1b4-0e21ccd14997", 
+  "preferredDefinition": {
+    "_value": "A detailed examination, analysis, or critical inspection of a subject designed to discover\n            facts about it.:An action taken in pursuit of an objective; the state of being active._This term is used\n            informally to mean a class of things.:A symbol or combination of symbols which is given an arbitrary meaning\n            within a systematized collection of concepts used for data representation._The code that identifies the kind\n            of activity, drawn from a controlled list of possible values, which groups similar or related activities\n            together. Represented using ISO 21090 CD v1.0.\n        "
+  }, 
+  "publicID": {
+    "_value": "3265511"
+  }, 
+  "referenceDocumentsList": {
+    "referenceDocumentsListItem": [
+      {
+        "documentText": {
+          "_value": "Study Activity Category Code"
+        }, 
+        "organizationName": {
+          "_value": "NULL"
+        }, 
+        "name": {
+          "_value": "Study Activity Category Code"
+        }, 
+        "language": {
+          "_value": "ENGLISH"
+        }, 
+        "uRL": {
+          "_value": "NULL"
+        }, 
+        "documentType": {
+          "_value": "Preferred Question Text"
+        }, 
+        "displayOrder": {
+          "_value": "NULL"
+        }
+      }
+    ]
+  }, 
+  "contextVersion": {
+    "_value": "1"
+  }, 
+  "alternateNameList": {
+    "alternateNameListItem": []
+  }, 
+  "classificationsList": {
+    "classificationsListItem": []
+  }, 
+  "workflowStatus": {
+    "_value": "DRAFT NEW"
+  }, 
+  "contextName": {
+    "_value": "caBIG"
+  }, 
+  "rAI": {
+    "_value": "2.16.840.1.113883.3.26.2"
+  }, 
+  "registrationStatus": {
+    "_value": ""
+  }, 
+  "_ui": {
+    "description": "Study Activity Category Code Category ISO 21090 CD v1.0 ComplexType publicId_3265511", 
+    "title": "CEDARDataElement3"
+  }, 
+  "version": {
+    "_value": "1"
+  }, 
+  "valueDomain": {
+    "origin": {
+      "_value": "NULL"
+    }, 
+    "characterSetName": {
+      "_value": "NULL"
+    }, 
+    "preferredDefinition": {
+      "_value": "The code that identifies the kind of activity, drawn from a controlled list of possible\n                values, which groups similar or related activities together.\n            "
+    }, 
+    "valueDomainConcepts": {
+      "valueDomainConceptsItem": []
+    }, 
+    "conceptualDomain": {
+      "contextVersion": {
+        "_value": "2.31"
+      }, 
+      "contextName": {
+        "_value": "CTEP"
+      }, 
+      "publicID": {
+        "_value": "2008528"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "Protocol Administration"
+      }, 
+      "preferredName": {
+        "_value": "PROT_ADM"
+      }
+    }, 
+    "displayFormat": {
+      "_value": "NULL"
+    }, 
+    "longName": {
+      "_value": "Category"
+    }, 
+    "minimumValue": {
+      "_value": "NULL"
+    }, 
+    "contextVersion": {
+      "_value": "1"
+    }, 
+    "workflowStatus": {
+      "_value": "DRAFT NEW"
+    }, 
+    "maximumValue": {
+      "_value": "NULL"
+    }, 
+    "version": {
+      "_value": "1"
+    }, 
+    "contextName": {
+      "_value": "caBIG"
+    }, 
+    "permissibleValues": {
+      "permissibleValuesItem": [
+        {
+          "validValue": {
+            "_value": "Intervention"
+          }, 
+          "meaningConcepts": {
+            "_value": "C16197"
+          }, 
+          "vMVersion": {
+            "_value": "1"
+          }, 
+          "vMPublicID": {
+            "_value": "2965172"
+          }, 
+          "pVBeginData": {
+            "_value": "12/8/2009 0:0:0"
+          }, 
+          "pVEndDate": {
+            "_value": "NULL"
+          }, 
+          "meaningDescription": {
+            "_value": "An action or ministration that produces an effect or that is intended to alter\n                        the course of a pathologic process.\n                    "
+          }, 
+          "valueMeaning": {
+            "_value": "Interventions"
+          }
+        }, 
+        {
+          "validValue": {
+            "_value": "Eligibility Criterion"
+          }, 
+          "meaningConcepts": {
+            "_value": "C25532"
+          }, 
+          "vMVersion": {
+            "_value": "1"
+          }, 
+          "vMPublicID": {
+            "_value": "2579170"
+          }, 
+          "pVBeginData": {
+            "_value": "11/9/2009 0:0:0"
+          }, 
+          "pVEndDate": {
+            "_value": "NULL"
+          }, 
+          "meaningDescription": {
+            "_value": "The addition of somebody or something to, or the presence of somebody or\n                        something in, a group or mixture, particularly, a passive, usually temporary, product of cell\n                        activity within the cytoplasm or nucleus.\n                    "
+          }, 
+          "valueMeaning": {
+            "_value": "Inclusion"
+          }
+        }
+      ]
+    }, 
+    "maximumLength": {
+      "_value": ""
+    }, 
+    "minimumLength": {
+      "_value": ""
+    }, 
+    "preferredName": {
+      "_value": "2959443v1.0"
+    }, 
+    "publicID": {
+      "_value": "2959443"
+    }, 
+    "datatype": {
+      "_value": "ISO21090CDv1.0"
+    }, 
+    "unitsOfMeasure": {
+      "_value": "NULL"
+    }, 
+    "decimalPlace": {
+      "_value": "NULL"
+    }, 
+    "valueDomainType": {
+      "_value": "Enumerated"
+    }, 
+    "representation": {
+      "contextVersion": {
+        "_value": "1"
+      }, 
+      "publicID": {
+        "_value": "2433877"
+      }, 
+      "untitled": {
+        "_value": "caBIG"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "1"
+      }, 
+      "preferredName": {
+        "_value": "C25372"
+      }
+    }
+  }, 
+  "dataElementConcept": {
+    "origin": {
+      "_value": "NULL"
+    }, 
+    "contextVersion": {
+      "_value": "1"
+    }, 
+    "preferredDefinition": {
+      "_value": "A detailed examination, analysis, or critical inspection of a subject designed to\n                discover facts about it.:An action taken in pursuit of an objective; the state of being active._This\n                term is used informally to mean a class of things.:A symbol or combination of symbols which is given an\n                arbitrary meaning within a systematized collection of concepts used for data representation.\n            "
+    }, 
+    "publicID": {
+      "_value": "2868071"
+    }, 
+    "objectClass": {
+      "conceptDetails": {
+        "conceptDetailsItem": [
+          {
+            "origin": {
+              "_value": "NCI Thesaurus"
+            }, 
+            "conceptID": {
+              "_value": "2553063"
+            }, 
+            "definitionSource": {
+              "_value": "NCI"
+            }, 
+            "primaryFlag": {
+              "_value": "No"
+            }, 
+            "eVSSource": {
+              "_value": "NCI_CONCEPT_CODE"
+            }, 
+            "longName": {
+              "_value": "Study"
+            }, 
+            "displayOrder": {
+              "_value": "1"
+            }, 
+            "preferredName": {
+              "_value": "C63536"
+            }
+          }, 
+          {
+            "origin": {
+              "_value": "NCI Thesaurus"
+            }, 
+            "conceptID": {
+              "_value": "2222740"
+            }, 
+            "definitionSource": {
+              "_value": "NCI"
+            }, 
+            "primaryFlag": {
+              "_value": "Yes"
+            }, 
+            "eVSSource": {
+              "_value": "NCI_CONCEPT_CODE"
+            }, 
+            "longName": {
+              "_value": "Activity"
+            }, 
+            "displayOrder": {
+              "_value": "0"
+            }, 
+            "preferredName": {
+              "_value": "C43431"
+            }
+          }
+        ]
+      }, 
+      "contextVersion": {
+        "_value": "1"
+      }, 
+      "contextName": {
+        "_value": "caBIG"
+      }, 
+      "publicID": {
+        "_value": "2867622"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "Study Activity"
+      }, 
+      "preferredName": {
+        "_value": "C63536:C43431"
+      }
+    }, 
+    "workflowStatus": {
+      "_value": "RELEASED"
+    }, 
+    "contextName": {
+      "_value": "caBIG"
+    }, 
+    "propertyQualifier": {
+      "_value": "NULL"
+    }, 
+    "version": {
+      "_value": "1"
+    }, 
+    "conceptualDomain": {
+      "contextVersion": {
+        "_value": "1"
+      }, 
+      "contextName": {
+        "_value": "caCORE"
+      }, 
+      "publicID": {
+        "_value": "2222502"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "UML DEFAULT CD"
+      }, 
+      "preferredName": {
+        "_value": "UML DEFAULT CD"
+      }
+    }, 
+    "longName": {
+      "_value": "Study Activity Category Code"
+    }, 
+    "property": {
+      "conceptDetails": {
+        "conceptDetailsItem": [
+          {
+            "origin": {
+              "_value": "NCI Thesaurus"
+            }, 
+            "conceptID": {
+              "_value": "2203876"
+            }, 
+            "definitionSource": {
+              "_value": "NCI"
+            }, 
+            "primaryFlag": {
+              "_value": "No"
+            }, 
+            "eVSSource": {
+              "_value": "NCI_CONCEPT_CODE"
+            }, 
+            "longName": {
+              "_value": "Category"
+            }, 
+            "displayOrder": {
+              "_value": "1"
+            }, 
+            "preferredName": {
+              "_value": "C25372"
+            }
+          }, 
+          {
+            "origin": {
+              "_value": "NCI Thesaurus"
+            }, 
+            "conceptID": {
+              "_value": "2203865"
+            }, 
+            "definitionSource": {
+              "_value": "Source => Name: NCI,"
+            }, 
+            "primaryFlag": {
+              "_value": "Yes"
+            }, 
+            "eVSSource": {
+              "_value": "NCI_CONCEPT_CODE"
+            }, 
+            "longName": {
+              "_value": "Code"
+            }, 
+            "displayOrder": {
+              "_value": "0"
+            }, 
+            "preferredName": {
+              "_value": "C25162"
+            }
+          }
+        ]
+      }, 
+      "contextVersion": {
+        "_value": "1"
+      }, 
+      "contextName": {
+        "_value": "caBIG"
+      }, 
+      "publicID": {
+        "_value": "2867794"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "Category Code"
+      }, 
+      "preferredName": {
+        "_value": "C25372:C25162"
+      }
+    }, 
+    "objectClassQualifier": {
+      "_value": "NULL"
+    }, 
+    "preferredName": {
+      "_value": "2867622v1.0:2867794v1.0"
+    }
+  }, 
+  "longName": {
+    "_value": "Study Activity Category Code Category ISO 21090 CD v1.0 ComplexType"
+  }, 
+  "dataElementDerivation": {
+    "methods": {
+      "_value": "NULL"
+    }, 
+    "componentDataElementsList": {
+      "componentDataElementsListItem": [
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._The information contained in a data field. It may represent a numeric quantity, a textual\n                        characterization, a date or time measurement, or some other state, depending on the nature of\n                        the attribute.:A group of things of the same kind that belong together and are so used.:A form\n                        or variant of a type or original; one of a sequence of copies of a program, each incorporating\n                        new modifications._Character strings in XML.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930142"
+          }, 
+          "workflowStatus": {
+            "_value": "RETIRED ARCHIVED"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Value Set Version xsd.string"
+          }, 
+          "displayOrder": {
+            "_value": "18"
+          }, 
+          "preferredName": {
+            "_value": "2928641v1.0:2861810v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._The information contained in a data field. It may represent a numeric quantity, a textual\n                        characterization, a date or time measurement, or some other state, depending on the nature of\n                        the attribute.:A group of things of the same kind that belong together and are so\n                        used._Character strings in XML.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930141"
+          }, 
+          "workflowStatus": {
+            "_value": "RETIRED ARCHIVED"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Value Set xsd.string"
+          }, 
+          "displayOrder": {
+            "_value": "17"
+          }, 
+          "preferredName": {
+            "_value": "2928640v1.0:2861810v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._Have a beginning, in a temporal, spatial, or evaluative sense; the point in space or time\n                        where something begins.:Allowable, usable, or acceptable.:The continuum of experience in which\n                        events pass from the future through the present to the past._Character strings in XML.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930454"
+          }, 
+          "workflowStatus": {
+            "_value": "RETIRED ARCHIVED"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Begin Valid Time xsd.string"
+          }, 
+          "displayOrder": {
+            "_value": "16"
+          }, 
+          "preferredName": {
+            "_value": "2928954v1.0:2861810v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._The point or place at which something terminates in time, space, or extent.:Allowable,\n                        usable, or acceptable.:The continuum of experience in which events pass from the future through\n                        the present to the past._Character strings in XML.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930455"
+          }, 
+          "workflowStatus": {
+            "_value": "RETIRED ARCHIVED"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier End Valid Time xsd.string"
+          }, 
+          "displayOrder": {
+            "_value": "15"
+          }, 
+          "preferredName": {
+            "_value": "2928955v1.0:2861810v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._Make current; supply with recent information or technology.:A particular functioning\n                        condition or arrangement._Property that allows a sending system to identify the role that the\n                        attribute plays in processing the instance that is being represented.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930453"
+          }, 
+          "workflowStatus": {
+            "_value": "RETIRED ARCHIVED"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Update Mode UpdateMode"
+          }, 
+          "displayOrder": {
+            "_value": "14"
+          }, 
+          "preferredName": {
+            "_value": "2928953v1.0:2929842v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._The act or process of rendering from one language into another._Reference concept defined\n                        by a referenced code system.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930147"
+          }, 
+          "workflowStatus": {
+            "_value": "RETIRED ARCHIVED"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Translation ISO21090.CD.v1.0"
+          }, 
+          "displayOrder": {
+            "_value": "13"
+          }, 
+          "preferredName": {
+            "_value": "2928646v1.0:2803170v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._An indicator of the particular group or agency that supplied a specific term.:Where\n                        something is available or from where it originates._Reference concept defined by a referenced\n                        code system.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930146"
+          }, 
+          "workflowStatus": {
+            "_value": "RETIRED ARCHIVED"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Term Source Source ISO21090.CD.v1.0"
+          }, 
+          "displayOrder": {
+            "_value": "12"
+          }, 
+          "preferredName": {
+            "_value": "2928645v1.0:2803170v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._Preceding all others in time or being as first made or performed.:The words of something\n                        written._Constrains ED so that it may only contain plain text.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930144"
+          }, 
+          "workflowStatus": {
+            "_value": "DRAFT NEW"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Original Text ISO21090.ED.TEXT.v1.0"
+          }, 
+          "displayOrder": {
+            "_value": "11"
+          }, 
+          "preferredName": {
+            "_value": "2928643v1.0:2846976v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._Of or belonging to a restricted area or locality.:Anything that limits; a limitation.:One\n                        or more characters used to identify, name, or characterize the nature, properties, or contents\n                        of a thing._Character strings in XML.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930452"
+          }, 
+          "workflowStatus": {
+            "_value": "RETIRED ARCHIVED"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Local Restriction Identifier xsd.string"
+          }, 
+          "displayOrder": {
+            "_value": "10"
+          }, 
+          "preferredName": {
+            "_value": "2928952v1.0:2861810v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._A special value that may be stored in some database columns to represent an unknown,\n                        missing, not applicable, or undefined value.:Of or belonging to a restricted area or\n                        locality.:Anything that limits; a limitation._If the value is null, indicates the reason.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930451"
+          }, 
+          "workflowStatus": {
+            "_value": "DRAFT NEW"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Null Local Restriction NullFlavor"
+          }, 
+          "displayOrder": {
+            "_value": "9"
+          }, 
+          "preferredName": {
+            "_value": "2928951v1.0:2929833v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._Exhibit, present, or demonstrate for viewing.:The words or language units by which a\n                        thing is known._Character string datatype stands for text data.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930143"
+          }, 
+          "workflowStatus": {
+            "_value": "DRAFT NEW"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Display Name ISO21090.ST.v1.0"
+          }, 
+          "displayOrder": {
+            "_value": "8"
+          }, 
+          "preferredName": {
+            "_value": "2928642v1.0:2803207v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._Something that happens at a given place and time.:One or more characters used to\n                        identify, name, or characterize the nature, properties, or contents of a thing.:The most\n                        important or necessary part of something._A string that is an identifier, and therefore must be\n                        either a string representation of an OID, a UUID, or a simple token taken from a lsit of\n                        controlled names for the context in which the Uid is used.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930456"
+          }, 
+          "workflowStatus": {
+            "_value": "RETIRED ARCHIVED"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Event Identifier Base ISO21090.Uid.v1.0"
+          }, 
+          "displayOrder": {
+            "_value": "7"
+          }, 
+          "preferredName": {
+            "_value": "2928956v1.0:2848226v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._Something that happens at a given place and time.:One or more characters used to\n                        identify, name, or characterize the nature, properties, or contents of a thing.:An addition to\n                        the length of something; the spreading of something into new regions._Character strings in XML.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930457"
+          }, 
+          "workflowStatus": {
+            "_value": "RETIRED ARCHIVED"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Event Identifier Extension xsd.string"
+          }, 
+          "displayOrder": {
+            "_value": "6"
+          }, 
+          "preferredName": {
+            "_value": "2928957v1.0:2861810v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._An explanation of the cause of some phenomenon or action.:The activity of implementing\n                        rules that are used to map the elements of one set onto the elements of another set, usually on\n                        a one-to-one basis._Reason item provided.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930145"
+          }, 
+          "workflowStatus": {
+            "_value": "RETIRED ARCHIVED"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Reason Coding CodingRationale"
+          }, 
+          "displayOrder": {
+            "_value": "5"
+          }, 
+          "preferredName": {
+            "_value": "2928644v1.0:2929960v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._A systematized collection of concepts that define corresponding codes.:A form or variant\n                        of a type or original; one of a sequence of copies of a program, each incorporating new\n                        modifications._Character strings in XML.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930140"
+          }, 
+          "workflowStatus": {
+            "_value": "DRAFT NEW"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Code System Version xsd.string"
+          }, 
+          "displayOrder": {
+            "_value": "4"
+          }, 
+          "preferredName": {
+            "_value": "2928639v1.0:2861810v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._A systematized collection of concepts that define corresponding codes.:The words or\n                        language units by which a thing is known._Character strings in XML.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930139"
+          }, 
+          "workflowStatus": {
+            "_value": "DRAFT NEW"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Code System Name xsd.string"
+          }, 
+          "displayOrder": {
+            "_value": "3"
+          }, 
+          "preferredName": {
+            "_value": "2928638v1.0:2861810v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._A systematized collection of concepts that define corresponding codes._A string that is\n                        an identifier, and therefore must be either a string representation of an OID, a UUID, or a\n                        simple token taken from a lsit of controlled names for the context in which the Uid is used.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930138"
+          }, 
+          "workflowStatus": {
+            "_value": "DRAFT NEW"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Code System ISO21090.Uid.v1.0"
+          }, 
+          "displayOrder": {
+            "_value": "2"
+          }, 
+          "preferredName": {
+            "_value": "2928637v1.0:2848226v1.0"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "A unit of knowledge created by a unique combination of characteristics.:One or\n                        more characters used to identify, name, or characterize the nature, properties, or contents of a\n                        thing._A system of numbered categories for representation of data._Character strings in XML.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2930137"
+          }, 
+          "workflowStatus": {
+            "_value": "DRAFT NEW"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Concept Identifier Code xsd.string"
+          }, 
+          "displayOrder": {
+            "_value": "1"
+          }, 
+          "preferredName": {
+            "_value": "2928636v1.0:2861810v1.0"
+          }
+        }
+      ]
+    }, 
+    "derivationTypeDescription": {
+      "_value": "concept derivation rule with multiple concepts"
+    }, 
+    "rule": {
+      "_value": "Use these 18 data elements when transmitting instances of this data element using the CD datatype.\n            "
+    }, 
+    "concatenationCharacter": {
+      "_value": "NULL"
+    }, 
+    "derivationType": {
+      "_value": "COMPOUND"
+    }
+  }, 
+  "preferredName": {
+    "_value": "Study Activity Category Code"
+  }
+}

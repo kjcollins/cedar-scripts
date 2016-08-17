@@ -1,0 +1,526 @@
+{
+  "origin": {
+    "_value": ""
+  }, 
+  "_templateId": "https://repo.metadatacenter.net/templates/f9d107b3-c587-4db3-a1b4-0e21ccd14997", 
+  "preferredDefinition": {
+    "_value": "Value to represent the age of a person at the time of death, expressed in number of\n            years.\n        "
+  }, 
+  "publicID": {
+    "_value": "2261932"
+  }, 
+  "referenceDocumentsList": {
+    "referenceDocumentsListItem": [
+      {
+        "documentText": {
+          "_value": "Age at Death"
+        }, 
+        "organizationName": {
+          "_value": "NULL"
+        }, 
+        "name": {
+          "_value": "Age at Death"
+        }, 
+        "language": {
+          "_value": "ENGLISH"
+        }, 
+        "uRL": {
+          "_value": "NULL"
+        }, 
+        "documentType": {
+          "_value": "Preferred Question Text"
+        }, 
+        "displayOrder": {
+          "_value": "NULL"
+        }
+      }
+    ]
+  }, 
+  "contextVersion": {
+    "_value": "1"
+  }, 
+  "alternateNameList": {
+    "alternateNameListItem": []
+  }, 
+  "classificationsList": {
+    "classificationsListItem": [
+      {
+        "classificationScheme": {
+          "contextVersion": {
+            "_value": "1"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "publicID": {
+            "_value": "2465726"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "preferredName": {
+            "_value": "RESERVED FOR SENTINEL MONITOR"
+          }
+        }, 
+        "classificationSchemeItemType": {
+          "_value": "CATEGORY_TYPE"
+        }, 
+        "classificationSchemeItemName": {
+          "_value": "Monitor for TRAINEE01"
+        }, 
+        "cSIPublicID": {
+          "_value": "2812195"
+        }, 
+        "cSIVersion": {
+          "_value": "1"
+        }
+      }, 
+      {
+        "classificationScheme": {
+          "contextVersion": {
+            "_value": "1"
+          }, 
+          "contextName": {
+            "_value": "CCR"
+          }, 
+          "publicID": {
+            "_value": "2182125"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "preferredName": {
+            "_value": "CCR Implementation"
+          }
+        }, 
+        "classificationSchemeItemType": {
+          "_value": "USAGE_TYPE"
+        }, 
+        "classificationSchemeItemName": {
+          "_value": "C3D"
+        }, 
+        "cSIPublicID": {
+          "_value": "2811673"
+        }, 
+        "cSIVersion": {
+          "_value": "1"
+        }
+      }, 
+      {
+        "classificationScheme": {
+          "contextVersion": {
+            "_value": "1"
+          }, 
+          "contextName": {
+            "_value": "CCR"
+          }, 
+          "publicID": {
+            "_value": "2008601"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "preferredName": {
+            "_value": "C3D Domain"
+          }
+        }, 
+        "classificationSchemeItemType": {
+          "_value": "C3D"
+        }, 
+        "classificationSchemeItemName": {
+          "_value": "CCR"
+        }, 
+        "cSIPublicID": {
+          "_value": "2811685"
+        }, 
+        "cSIVersion": {
+          "_value": "1"
+        }
+      }
+    ]
+  }, 
+  "workflowStatus": {
+    "_value": "RELEASED"
+  }, 
+  "contextName": {
+    "_value": "CCR"
+  }, 
+  "rAI": {
+    "_value": "2.16.840.1.113883.3.26.2"
+  }, 
+  "registrationStatus": {
+    "_value": "Qualified"
+  }, 
+  "_ui": {
+    "description": "Age At Death Derived in Years Number publicId_2261932", 
+    "title": "CEDARDataElement2"
+  }, 
+  "version": {
+    "_value": "1"
+  }, 
+  "valueDomain": {
+    "origin": {
+      "_value": "NULL"
+    }, 
+    "characterSetName": {
+      "_value": "NULL"
+    }, 
+    "preferredDefinition": {
+      "_value": "Patient age expressed in number of years since birth."
+    }, 
+    "valueDomainConcepts": {
+      "valueDomainConceptsItem": []
+    }, 
+    "conceptualDomain": {
+      "contextVersion": {
+        "_value": "2.31"
+      }, 
+      "contextName": {
+        "_value": "CTEP"
+      }, 
+      "publicID": {
+        "_value": "2008532"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "Individuals"
+      }, 
+      "preferredName": {
+        "_value": "INDS"
+      }
+    }, 
+    "displayFormat": {
+      "_value": "NULL"
+    }, 
+    "longName": {
+      "_value": "Patient Age in Years"
+    }, 
+    "minimumValue": {
+      "_value": "NULL"
+    }, 
+    "contextVersion": {
+      "_value": "1"
+    }, 
+    "workflowStatus": {
+      "_value": "RELEASED"
+    }, 
+    "maximumValue": {
+      "_value": "NULL"
+    }, 
+    "version": {
+      "_value": "3.1"
+    }, 
+    "contextName": {
+      "_value": "CCR"
+    }, 
+    "permissibleValues": {
+      "permissibleValuesItem": []
+    }, 
+    "maximumLength": {
+      "_value": "5"
+    }, 
+    "minimumLength": {
+      "_value": "3"
+    }, 
+    "preferredName": {
+      "_value": "PT_AGE_YR"
+    }, 
+    "publicID": {
+      "_value": "2017173"
+    }, 
+    "datatype": {
+      "_value": "NUMBER"
+    }, 
+    "unitsOfMeasure": {
+      "_value": "NULL"
+    }, 
+    "decimalPlace": {
+      "_value": "2"
+    }, 
+    "valueDomainType": {
+      "_value": "NonEnumerated"
+    }, 
+    "representation": {
+      "contextVersion": {
+        "_value": "1"
+      }, 
+      "publicID": {
+        "_value": "2691459"
+      }, 
+      "untitled": {
+        "_value": "caBIG"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "1"
+      }, 
+      "preferredName": {
+        "_value": "C25150:C29848:C25337"
+      }
+    }
+  }, 
+  "dataElementConcept": {
+    "origin": {
+      "_value": "NULL"
+    }, 
+    "contextVersion": {
+      "_value": "1"
+    }, 
+    "preferredDefinition": {
+      "_value": "Age of a person at the time of death, stated in years since birth until death.\n            "
+    }, 
+    "publicID": {
+      "_value": "2261930"
+    }, 
+    "objectClass": {
+      "conceptDetails": {
+        "conceptDetailsItem": [
+          {
+            "origin": {
+              "_value": "NCI Thesaurus"
+            }, 
+            "conceptID": {
+              "_value": "2202837"
+            }, 
+            "definitionSource": {
+              "_value": "NCI"
+            }, 
+            "primaryFlag": {
+              "_value": "Yes"
+            }, 
+            "eVSSource": {
+              "_value": "NCI_CONCEPT_CODE"
+            }, 
+            "longName": {
+              "_value": "Age"
+            }, 
+            "displayOrder": {
+              "_value": "0"
+            }, 
+            "preferredName": {
+              "_value": "C25150"
+            }
+          }
+        ]
+      }, 
+      "contextVersion": {
+        "_value": "1"
+      }, 
+      "contextName": {
+        "_value": "caBIG"
+      }, 
+      "publicID": {
+        "_value": "2261926"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "Age"
+      }, 
+      "preferredName": {
+        "_value": "C25150"
+      }
+    }, 
+    "workflowStatus": {
+      "_value": "RELEASED"
+    }, 
+    "contextName": {
+      "_value": "CCR"
+    }, 
+    "propertyQualifier": {
+      "_value": "NULL"
+    }, 
+    "version": {
+      "_value": "1"
+    }, 
+    "conceptualDomain": {
+      "contextVersion": {
+        "_value": "2.31"
+      }, 
+      "contextName": {
+        "_value": "CTEP"
+      }, 
+      "publicID": {
+        "_value": "2008532"
+      }, 
+      "version": {
+        "_value": "2.31"
+      }, 
+      "longName": {
+        "_value": "Individuals"
+      }, 
+      "preferredName": {
+        "_value": "INDS"
+      }
+    }, 
+    "longName": {
+      "_value": "Age At Death"
+    }, 
+    "property": {
+      "conceptDetails": {
+        "conceptDetailsItem": [
+          {
+            "origin": {
+              "_value": "NCI Thesaurus"
+            }, 
+            "conceptID": {
+              "_value": "2261927"
+            }, 
+            "definitionSource": {
+              "_value": "NCI"
+            }, 
+            "primaryFlag": {
+              "_value": "No"
+            }, 
+            "eVSSource": {
+              "_value": "NCI_CONCEPT_CODE"
+            }, 
+            "longName": {
+              "_value": "At"
+            }, 
+            "displayOrder": {
+              "_value": "1"
+            }, 
+            "preferredName": {
+              "_value": "C25427"
+            }
+          }, 
+          {
+            "origin": {
+              "_value": "NCI Thesaurus"
+            }, 
+            "conceptID": {
+              "_value": "2202731"
+            }, 
+            "definitionSource": {
+              "_value": "NCI"
+            }, 
+            "primaryFlag": {
+              "_value": "Yes"
+            }, 
+            "eVSSource": {
+              "_value": "NCI_CONCEPT_CODE"
+            }, 
+            "longName": {
+              "_value": "Death"
+            }, 
+            "displayOrder": {
+              "_value": "0"
+            }, 
+            "preferredName": {
+              "_value": "C28554"
+            }
+          }
+        ]
+      }, 
+      "contextVersion": {
+        "_value": "1"
+      }, 
+      "contextName": {
+        "_value": "caBIG"
+      }, 
+      "publicID": {
+        "_value": "2261928"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "At Death"
+      }, 
+      "preferredName": {
+        "_value": "C25427:C28554"
+      }
+    }, 
+    "objectClassQualifier": {
+      "_value": "NULL"
+    }, 
+    "preferredName": {
+      "_value": "AGE_DEATH"
+    }
+  }, 
+  "longName": {
+    "_value": "Age At Death Derived in Years Number"
+  }, 
+  "dataElementDerivation": {
+    "methods": {
+      "_value": "Subtract Birth date from Death date; divide by 365 to yield person age at the time of death.\n            "
+    }, 
+    "componentDataElementsList": {
+      "componentDataElementsListItem": [
+        {
+          "preferredDefinition": {
+            "_value": "The actual date of a patient's/participant's death."
+          }, 
+          "publicID": {
+            "_value": "2004152"
+          }, 
+          "workflowStatus": {
+            "_value": "RELEASED"
+          }, 
+          "contextName": {
+            "_value": "CCR"
+          }, 
+          "version": {
+            "_value": "3"
+          }, 
+          "longName": {
+            "_value": "Death Date"
+          }, 
+          "displayOrder": {
+            "_value": "2"
+          }, 
+          "preferredName": {
+            "_value": "DEATH_DT"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "the month, day and year on which the patient/participant was born.\n                    "
+          }, 
+          "publicID": {
+            "_value": "793"
+          }, 
+          "workflowStatus": {
+            "_value": "RETIRED ARCHIVED"
+          }, 
+          "contextName": {
+            "_value": "CTEP"
+          }, 
+          "version": {
+            "_value": "4"
+          }, 
+          "longName": {
+            "_value": "Patient Birth Date"
+          }, 
+          "displayOrder": {
+            "_value": "1"
+          }, 
+          "preferredName": {
+            "_value": "PT_BIRTH_DT"
+          }
+        }
+      ]
+    }, 
+    "derivationTypeDescription": {
+      "_value": "CALCULATED"
+    }, 
+    "rule": {
+      "_value": "Age at death is the age (in years) of a person on the date of death."
+    }, 
+    "concatenationCharacter": {
+      "_value": "NULL"
+    }, 
+    "derivationType": {
+      "_value": "CALCULATED"
+    }
+  }, 
+  "preferredName": {
+    "_value": "AGE_DEATH_DERIV_NUM"
+  }
+}

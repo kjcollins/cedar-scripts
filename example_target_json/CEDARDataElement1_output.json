@@ -1,0 +1,406 @@
+{
+  "origin": {
+    "_value": ""
+  }, 
+  "_templateId": "https://repo.metadatacenter.net/templates/f9d107b3-c587-4db3-a1b4-0e21ccd14997", 
+  "preferredDefinition": {
+    "_value": "A person's age at the time of an examiniation, expressed as a derived number of years since\n            birth.\n        "
+  }, 
+  "publicID": {
+    "_value": "2239920"
+  }, 
+  "referenceDocumentsList": {
+    "referenceDocumentsListItem": [
+      {
+        "documentText": {
+          "_value": "Age"
+        }, 
+        "organizationName": {
+          "_value": "NULL"
+        }, 
+        "name": {
+          "_value": "Age"
+        }, 
+        "language": {
+          "_value": "ENGLISH"
+        }, 
+        "uRL": {
+          "_value": "NULL"
+        }, 
+        "documentType": {
+          "_value": "Preferred Question Text"
+        }, 
+        "displayOrder": {
+          "_value": "NULL"
+        }
+      }
+    ]
+  }, 
+  "contextVersion": {
+    "_value": "1"
+  }, 
+  "alternateNameList": {
+    "alternateNameListItem": []
+  }, 
+  "classificationsList": {
+    "classificationsListItem": []
+  }, 
+  "workflowStatus": {
+    "_value": "RELEASED"
+  }, 
+  "contextName": {
+    "_value": "NHLBI"
+  }, 
+  "rAI": {
+    "_value": "2.16.840.1.113883.3.26.2"
+  }, 
+  "registrationStatus": {
+    "_value": "Qualified"
+  }, 
+  "_ui": {
+    "description": "Examination Age in Derived Years Number publicId_2239920", 
+    "title": "CEDARDataElement1"
+  }, 
+  "version": {
+    "_value": "1"
+  }, 
+  "valueDomain": {
+    "origin": {
+      "_value": "NULL"
+    }, 
+    "characterSetName": {
+      "_value": "NULL"
+    }, 
+    "preferredDefinition": {
+      "_value": "Number of years since birth, expressed as a concept of quantity derived from zero and\n                units.\n            "
+    }, 
+    "valueDomainConcepts": {
+      "valueDomainConceptsItem": []
+    }, 
+    "conceptualDomain": {
+      "contextVersion": {
+        "_value": "2.31"
+      }, 
+      "contextName": {
+        "_value": "CTEP"
+      }, 
+      "publicID": {
+        "_value": "2008532"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "Individuals"
+      }, 
+      "preferredName": {
+        "_value": "INDS"
+      }
+    }, 
+    "displayFormat": {
+      "_value": "NULL"
+    }, 
+    "longName": {
+      "_value": "Age in Years Number"
+    }, 
+    "minimumValue": {
+      "_value": "NULL"
+    }, 
+    "contextVersion": {
+      "_value": "2.31"
+    }, 
+    "workflowStatus": {
+      "_value": "RELEASED"
+    }, 
+    "maximumValue": {
+      "_value": "NULL"
+    }, 
+    "version": {
+      "_value": "1"
+    }, 
+    "contextName": {
+      "_value": "SPOREs"
+    }, 
+    "permissibleValues": {
+      "permissibleValuesItem": []
+    }, 
+    "maximumLength": {
+      "_value": "2"
+    }, 
+    "minimumLength": {
+      "_value": "1"
+    }, 
+    "preferredName": {
+      "_value": "AGE_YR_NUM"
+    }, 
+    "publicID": {
+      "_value": "2018812"
+    }, 
+    "datatype": {
+      "_value": "NUMBER"
+    }, 
+    "unitsOfMeasure": {
+      "_value": "NULL"
+    }, 
+    "decimalPlace": {
+      "_value": "NULL"
+    }, 
+    "valueDomainType": {
+      "_value": "NonEnumerated"
+    }, 
+    "representation": {
+      "contextVersion": {
+        "_value": "1"
+      }, 
+      "publicID": {
+        "_value": "2233101"
+      }, 
+      "untitled": {
+        "_value": "caBIG"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "1"
+      }, 
+      "preferredName": {
+        "_value": "C25337"
+      }
+    }
+  }, 
+  "dataElementConcept": {
+    "origin": {
+      "_value": "NULL"
+    }, 
+    "contextVersion": {
+      "_value": "1"
+    }, 
+    "preferredDefinition": {
+      "_value": "A person's age at the time of an examiniation, usually stated in years since birth.\n            "
+    }, 
+    "publicID": {
+      "_value": "2239918"
+    }, 
+    "objectClass": {
+      "conceptDetails": {
+        "conceptDetailsItem": [
+          {
+            "origin": {
+              "_value": "NCI Thesaurus"
+            }, 
+            "conceptID": {
+              "_value": "2202633"
+            }, 
+            "definitionSource": {
+              "_value": "NCI"
+            }, 
+            "primaryFlag": {
+              "_value": "Yes"
+            }, 
+            "eVSSource": {
+              "_value": "NCI_CONCEPT_CODE"
+            }, 
+            "longName": {
+              "_value": "Medical Examination"
+            }, 
+            "displayOrder": {
+              "_value": "0"
+            }, 
+            "preferredName": {
+              "_value": "C25305"
+            }
+          }
+        ]
+      }, 
+      "contextVersion": {
+        "_value": "1"
+      }, 
+      "contextName": {
+        "_value": "caBIG"
+      }, 
+      "publicID": {
+        "_value": "2234874"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "Exam"
+      }, 
+      "preferredName": {
+        "_value": "C25305"
+      }
+    }, 
+    "workflowStatus": {
+      "_value": "RELEASED"
+    }, 
+    "contextName": {
+      "_value": "NHLBI"
+    }, 
+    "propertyQualifier": {
+      "_value": "NULL"
+    }, 
+    "version": {
+      "_value": "1"
+    }, 
+    "conceptualDomain": {
+      "contextVersion": {
+        "_value": "2.31"
+      }, 
+      "contextName": {
+        "_value": "CTEP"
+      }, 
+      "publicID": {
+        "_value": "2008532"
+      }, 
+      "version": {
+        "_value": "2.31"
+      }, 
+      "longName": {
+        "_value": "Individuals"
+      }, 
+      "preferredName": {
+        "_value": "INDS"
+      }
+    }, 
+    "longName": {
+      "_value": "Examination Age"
+    }, 
+    "property": {
+      "conceptDetails": {
+        "conceptDetailsItem": [
+          {
+            "origin": {
+              "_value": "NCI Thesaurus"
+            }, 
+            "conceptID": {
+              "_value": "2202837"
+            }, 
+            "definitionSource": {
+              "_value": "NCI"
+            }, 
+            "primaryFlag": {
+              "_value": "Yes"
+            }, 
+            "eVSSource": {
+              "_value": "NCI_CONCEPT_CODE"
+            }, 
+            "longName": {
+              "_value": "Age"
+            }, 
+            "displayOrder": {
+              "_value": "0"
+            }, 
+            "preferredName": {
+              "_value": "C25150"
+            }
+          }
+        ]
+      }, 
+      "contextVersion": {
+        "_value": "1"
+      }, 
+      "contextName": {
+        "_value": "caBIG"
+      }, 
+      "publicID": {
+        "_value": "2239916"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "Age"
+      }, 
+      "preferredName": {
+        "_value": "C25150"
+      }
+    }, 
+    "objectClassQualifier": {
+      "_value": "NULL"
+    }, 
+    "preferredName": {
+      "_value": "EXAM_AGE"
+    }
+  }, 
+  "longName": {
+    "_value": "Examination Age in Derived Years Number"
+  }, 
+  "dataElementDerivation": {
+    "methods": {
+      "_value": "Round to the whole number, no decimals."
+    }, 
+    "componentDataElementsList": {
+      "componentDataElementsListItem": [
+        {
+          "preferredDefinition": {
+            "_value": "The date of the evaluation, procedure or visit that yielded data.\n                    "
+          }, 
+          "publicID": {
+            "_value": "2004170"
+          }, 
+          "workflowStatus": {
+            "_value": "RELEASED"
+          }, 
+          "contextName": {
+            "_value": "CCR"
+          }, 
+          "version": {
+            "_value": "3"
+          }, 
+          "longName": {
+            "_value": "Evaluation Date"
+          }, 
+          "displayOrder": {
+            "_value": "2"
+          }, 
+          "preferredName": {
+            "_value": "EVAL_DT"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "the month, day and year on which the patient/participant was born.\n                    "
+          }, 
+          "publicID": {
+            "_value": "793"
+          }, 
+          "workflowStatus": {
+            "_value": "RETIRED ARCHIVED"
+          }, 
+          "contextName": {
+            "_value": "CTEP"
+          }, 
+          "version": {
+            "_value": "4"
+          }, 
+          "longName": {
+            "_value": "Patient Birth Date"
+          }, 
+          "displayOrder": {
+            "_value": "1"
+          }, 
+          "preferredName": {
+            "_value": "PT_BIRTH_DT"
+          }
+        }
+      ]
+    }, 
+    "derivationTypeDescription": {
+      "_value": "CALCULATED"
+    }, 
+    "rule": {
+      "_value": "Examination age = Examination date - Date of patient/participant birth."
+    }, 
+    "concatenationCharacter": {
+      "_value": "NULL"
+    }, 
+    "derivationType": {
+      "_value": "CALCULATED"
+    }
+  }, 
+  "preferredName": {
+    "_value": "EXM_AGE_DERIV_YR_NUM"
+  }
+}

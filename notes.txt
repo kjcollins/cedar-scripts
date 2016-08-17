@@ -1,0 +1,39 @@
+
+Using cURL to post to CEDAR:
+
+example of full command:
+
+curl -i -H "Content-Type: application/json" -H "Authorization: apiKey b81c80f8-8640-4491-84e2-d7aae46b2a14" -X POST --data-binary @CEDARDataElement0.json https://resource.metadatacenter.net/template-instances?folderId=https:%2F%2Frepo.metadatacenter.net%2Ffolders%2F90a749ae-b7af-4e6d-bae9-5e8fe21d582a
+
+parts of command:
+
+ * curl
+ * -i (--include)
+   include HTTP-header in output
+ * -H (--header)
+   include extra header, used when getting web page
+ * "Content-Type: application/json"
+   content type of the specified document
+ * -H (--header)
+   extra header, included again
+ * "Authorization: apiKey (b81c80f8-8640-4491-84e2-d7aae46b2a14)"
+   use personal apiKey to authorize command
+ * -X (--request)
+   specifies a request method other than GET (POST, DELETE)
+ * POST
+   request method to create a new piece of content of specified type at specified location
+ * --data-binary
+   posts following data exactly as specified, with no extra processing
+ * @filename
+   gives curl data to load, URL encode as specified by --data-binary, and pass on to POST
+   in this case, should be a .json validated file conforming to CEDAR json schema
+ * hostname (https://resource.metadatacenter.net/)
+   where the post will be made
+ * resource (template-instances)
+   resource in API that is accessed
+ * ?
+   parameter
+ * location (folderId)
+   for CEDAR, a folder is required as the location for the resource posted
+
+curl -i -H "Content-Type: application/json" -H "Authorization: apiKey b81c80f8-8640-4491-84e2-d7aae46b2a14" -X POST --data-binary @value-domain.json https://resource.metadatacenter.net/template-elements?folderId=https:%2F%2Frepo.metadatacenter.net%2Ffolders%2F406dc874-8369-42f1-ae9c-259ebca008c7

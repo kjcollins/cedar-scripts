@@ -1,0 +1,513 @@
+{
+  "origin": {
+    "_value": ""
+  }, 
+  "_templateId": "https://repo.metadatacenter.net/templates/c009b085-b8b8-4a50-ac9c-94b30c8b0f1c", 
+  "preferredDefinition": {
+    "_value": "The temperature of an individual derived in celsius."
+  }, 
+  "publicID": {
+    "_value": "2188100"
+  }, 
+  "referenceDocumentsList": {
+    "referenceDocumentsListItem": [
+      {
+        "documentText": {
+          "_value": "Temp Derived (Cel)"
+        }, 
+        "organizationName": {
+          "_value": "NULL"
+        }, 
+        "name": {
+          "_value": "Temp Derived (Cel)"
+        }, 
+        "language": {
+          "_value": "ENGLISH"
+        }, 
+        "uRL": {
+          "_value": "NULL"
+        }, 
+        "documentType": {
+          "_value": "Preferred Question Text"
+        }, 
+        "@id": "https://example.com/Dummy", 
+        "displayOrder": {
+          "_value": "NULL"
+        }
+      }
+    ], 
+    "@id": "https://example.com/Dummy"
+  }, 
+  "contextVersion": {
+    "_value": "1"
+  }, 
+  "alternateNameList": {
+    "alternateNameListItem": [
+      {
+        "contextVersion": {
+          "_value": "1"
+        }, 
+        "contextName": {
+          "_value": "caBIG"
+        }, 
+        "language": {
+          "_value": "ENGLISH"
+        }, 
+        "alternateName": {
+          "_value": "ENGLISH"
+        }, 
+        "@id": "https://example.com/Dummy", 
+        "alternateNameType": {
+          "_value": "CONTEXT NAME"
+        }
+      }
+    ], 
+    "@id": "https://example.com/Dummy"
+  }, 
+  "classificationsList": {
+    "@id": "https://example.com/Dummy", 
+    "classificationsListItem": [
+      {
+        "cSIPublicID": {
+          "_value": "2812625"
+        }, 
+        "cSIVersion": {
+          "_value": "1"
+        }, 
+        "classificationSchemeItemType": {
+          "_value": "GROUP_TYPE"
+        }, 
+        "classificationScheme": {
+          "contextVersion": {
+            "_value": "1"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "publicID": {
+            "_value": "2183535"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "@id": "https://example.com/Dummy", 
+          "preferredName": {
+            "_value": "Clinical Trial Mgmt Systems"
+          }
+        }, 
+        "classificationSchemeItemName": {
+          "_value": "CTMS C3D Adopter Sites"
+        }, 
+        "@id": "https://example.com/Dummy"
+      }, 
+      {
+        "cSIPublicID": {
+          "_value": "2811715"
+        }, 
+        "cSIVersion": {
+          "_value": "1"
+        }, 
+        "classificationSchemeItemType": {
+          "_value": "GROUP_TYPE"
+        }, 
+        "classificationScheme": {
+          "contextVersion": {
+            "_value": "1"
+          }, 
+          "contextName": {
+            "_value": "caBIG"
+          }, 
+          "publicID": {
+            "_value": "2183535"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "@id": "https://example.com/Dummy", 
+          "preferredName": {
+            "_value": "Clinical Trial Mgmt Systems"
+          }
+        }, 
+        "classificationSchemeItemName": {
+          "_value": "Duke University"
+        }, 
+        "@id": "https://example.com/Dummy"
+      }
+    ]
+  }, 
+  "workflowStatus": {
+    "_value": "RELEASED"
+  }, 
+  "contextName": {
+    "_value": "caBIG"
+  }, 
+  "rAI": {
+    "_value": "2.16.840.1.113883.3.26.2"
+  }, 
+  "registrationStatus": {
+    "_value": "Qualified"
+  }, 
+  "_ui": {
+    "description": "Temperature Derived in Celsius public id: 2188100", 
+    "title": "CEDARDataElement0"
+  }, 
+  "version": {
+    "_value": "1"
+  }, 
+  "valueDomain": {
+    "origin": {
+      "_value": "NULL"
+    }, 
+    "characterSetName": {
+      "_value": "NULL"
+    }, 
+    "preferredDefinition": {
+      "_value": "The temperature of an individual derived in celsius."
+    }, 
+    "valueDomainConcepts": {
+      "valueDomainConceptsItem": [], 
+      "@id": "https://example.com/Dummy"
+    }, 
+    "conceptualDomain": {
+      "contextVersion": {
+        "_value": "1"
+      }, 
+      "contextName": {
+        "_value": "caBIG"
+      }, 
+      "publicID": {
+        "_value": "2183782"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "caBIG"
+      }, 
+      "@id": "https://example.com/Dummy", 
+      "preferredName": {
+        "_value": "CABIG"
+      }
+    }, 
+    "displayFormat": {
+      "_value": "NULL"
+    }, 
+    "longName": {
+      "_value": "Temperature Measurement Derived"
+    }, 
+    "minimumValue": {
+      "_value": "NULL"
+    }, 
+    "contextVersion": {
+      "_value": "1"
+    }, 
+    "workflowStatus": {
+      "_value": "RELEASED"
+    }, 
+    "maximumValue": {
+      "_value": "NULL"
+    }, 
+    "version": {
+      "_value": "1"
+    }, 
+    "contextName": {
+      "_value": "caBIG"
+    }, 
+    "permissibleValues": {
+      "@id": "https://example.com/Dummy", 
+      "permissibleValuesItem": []
+    }, 
+    "maximumLength": {
+      "_value": "5"
+    }, 
+    "@id": "https://example.com/Dummy", 
+    "minimumLength": {
+      "_value": ""
+    }, 
+    "preferredName": {
+      "_value": "T_MSRMT_DERIV"
+    }, 
+    "publicID": {
+      "_value": "2188098"
+    }, 
+    "datatype": {
+      "_value": "NUMBER"
+    }, 
+    "unitsOfMeasure": {
+      "_value": "NULL"
+    }, 
+    "decimalPlace": {
+      "_value": "2"
+    }, 
+    "valueDomainType": {
+      "_value": "NonEnumerated"
+    }, 
+    "representation": {
+      "contextVersion": {
+        "_value": ""
+      }, 
+      "publicID": {
+        "_value": ""
+      }, 
+      "untitled": {
+        "_value": ""
+      }, 
+      "version": {
+        "_value": ""
+      }, 
+      "longName": {
+        "_value": ""
+      }, 
+      "@id": "https://example.com/Dummy", 
+      "preferredName": {
+        "_value": ""
+      }
+    }
+  }, 
+  "dataElementConcept": {
+    "origin": {
+      "_value": "NULL"
+    }, 
+    "contextVersion": {
+      "_value": "1"
+    }, 
+    "preferredDefinition": {
+      "_value": "The degree of hotness or coldness of a body or environment using the Celsius\n                (Centigrade) scale.\n            "
+    }, 
+    "publicID": {
+      "_value": "2013132"
+    }, 
+    "objectClass": {
+      "conceptDetails": {
+        "conceptDetailsItem": [
+          {
+            "origin": {
+              "_value": "NCI Thesaurus"
+            }, 
+            "conceptID": {
+              "_value": "2202772"
+            }, 
+            "definitionSource": {
+              "_value": "Source => Name: NCI,"
+            }, 
+            "primaryFlag": {
+              "_value": "Yes"
+            }, 
+            "eVSSource": {
+              "_value": "NCI_CONCEPT_CODE"
+            }, 
+            "longName": {
+              "_value": "Temperature"
+            }, 
+            "@id": "https://example.com/Dummy", 
+            "displayOrder": {
+              "_value": "0"
+            }, 
+            "preferredName": {
+              "_value": "C25206"
+            }
+          }
+        ], 
+        "@id": "https://example.com/Dummy"
+      }, 
+      "contextVersion": {
+        "_value": "1"
+      }, 
+      "contextName": {
+        "_value": "CCR"
+      }, 
+      "publicID": {
+        "_value": "2180841"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "Temperature"
+      }, 
+      "@id": "https://example.com/Dummy", 
+      "preferredName": {
+        "_value": "Temperature"
+      }
+    }, 
+    "workflowStatus": {
+      "_value": "RELEASED"
+    }, 
+    "contextName": {
+      "_value": "CCR"
+    }, 
+    "propertyQualifier": {
+      "_value": "NULL"
+    }, 
+    "version": {
+      "_value": "1"
+    }, 
+    "conceptualDomain": {
+      "contextVersion": {
+        "_value": "2.31"
+      }, 
+      "contextName": {
+        "_value": "CTEP"
+      }, 
+      "publicID": {
+        "_value": "2008556"
+      }, 
+      "version": {
+        "_value": "2.31"
+      }, 
+      "longName": {
+        "_value": "Assessment Results"
+      }, 
+      "@id": "https://example.com/Dummy", 
+      "preferredName": {
+        "_value": "ASSESS_RESULTS"
+      }
+    }, 
+    "longName": {
+      "_value": "Temperature Celsius Scale"
+    }, 
+    "property": {
+      "conceptDetails": {
+        "conceptDetailsItem": [
+          {
+            "origin": {
+              "_value": "NCI Thesaurus"
+            }, 
+            "conceptID": {
+              "_value": "2202541"
+            }, 
+            "definitionSource": {
+              "_value": "NCI"
+            }, 
+            "primaryFlag": {
+              "_value": "Yes"
+            }, 
+            "eVSSource": {
+              "_value": "NCI_CONCEPT_CODE"
+            }, 
+            "longName": {
+              "_value": "Celsius Scale"
+            }, 
+            "@id": "https://example.com/Dummy", 
+            "displayOrder": {
+              "_value": "0"
+            }, 
+            "preferredName": {
+              "_value": "C41151"
+            }
+          }
+        ], 
+        "@id": "https://example.com/Dummy"
+      }, 
+      "contextVersion": {
+        "_value": "1"
+      }, 
+      "contextName": {
+        "_value": "CCR"
+      }, 
+      "publicID": {
+        "_value": "2196017"
+      }, 
+      "version": {
+        "_value": "1"
+      }, 
+      "longName": {
+        "_value": "Celsius Scale"
+      }, 
+      "@id": "https://example.com/Dummy", 
+      "preferredName": {
+        "_value": "Celsius Scale"
+      }
+    }, 
+    "@id": "https://example.com/Dummy", 
+    "objectClassQualifier": {
+      "_value": "NULL"
+    }, 
+    "preferredName": {
+      "_value": "TEMP_CEL"
+    }
+  }, 
+  "longName": {
+    "_value": "Temperature Derived in Celsius"
+  }, 
+  "dataElementDerivation": {
+    "methods": {
+      "_value": "Multiply value by 5/9, and subtract 32. Resultant value is displayed as derived temperature\n                Celsius.\n            "
+    }, 
+    "componentDataElementsList": {
+      "@id": "https://example.com/Dummy", 
+      "componentDataElementsListItem": [
+        {
+          "preferredDefinition": {
+            "_value": "The body temperature expressed in Celsius degrees."
+          }, 
+          "publicID": {
+            "_value": "2004286"
+          }, 
+          "workflowStatus": {
+            "_value": "RETIRED PHASED OUT"
+          }, 
+          "contextName": {
+            "_value": "CCR"
+          }, 
+          "version": {
+            "_value": "2"
+          }, 
+          "longName": {
+            "_value": "Temperature Celsius"
+          }, 
+          "@id": "https://example.com/Dummy", 
+          "displayOrder": {
+            "_value": "2"
+          }, 
+          "preferredName": {
+            "_value": "TEMP_CEL"
+          }
+        }, 
+        {
+          "preferredDefinition": {
+            "_value": "The participant\"s temperature."
+          }, 
+          "publicID": {
+            "_value": "2182748"
+          }, 
+          "workflowStatus": {
+            "_value": "RELEASED"
+          }, 
+          "contextName": {
+            "_value": "DCP"
+          }, 
+          "version": {
+            "_value": "1"
+          }, 
+          "longName": {
+            "_value": "Participant Temperature"
+          }, 
+          "@id": "https://example.com/Dummy", 
+          "displayOrder": {
+            "_value": "1"
+          }, 
+          "preferredName": {
+            "_value": "PT_TEMP"
+          }
+        }
+      ]
+    }, 
+    "derivationTypeDescription": {
+      "_value": "CALCULATED"
+    }, 
+    "rule": {
+      "_value": "When temperature value is entered as a degrees Fahrenheit value, calculate and display as degrees\n                Celsius.\n            "
+    }, 
+    "concatenationCharacter": {
+      "_value": "NULL"
+    }, 
+    "derivationType": {
+      "_value": "CALCULATED"
+    }, 
+    "@id": "https://example.com/Dummy"
+  }, 
+  "preferredName": {
+    "_value": "TMP_DERIV_CEL"
+  }
+}
