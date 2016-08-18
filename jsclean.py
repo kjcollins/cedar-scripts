@@ -26,6 +26,8 @@ def clean_files(f_input, f_output):
         # template ID of template instance follows
         # current template ID is "Data Element" template on staging server
         output["_templateId"] = "https://repo.staging.metadatacenter.net/templates/634324b6-ffe9-4b3d-a9bb-875aeba5144a"
+        # output["_templateId"] = "https://repo.staging.metadatacenter.net/templates/634324b6-ffe9-4b3d-
+        # a9bb-875aeba5144a"
 
         if "@id" in keys:
             del output["@id"]
