@@ -69,8 +69,8 @@ def cedar_post(url, parameter, headers, directory):
             log.write(resp_text)
             # print cur_time + response + resp_headers + resp_text
             i += 1
-            if i >= 5:
-                break
+            if i % 50 == 0:
+                print i
 
         end = time.time()
 
